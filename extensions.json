@@ -604,14 +604,14 @@
         },
         {
             "id": "lnurlp",
-            "repo": "https://github.com/lnbits/lnurlp",
+            "repo": "https://github.com/oren-z0/lnurlp",
             "name": "LNURLp",
-            "version": "0.4.4",
+            "version": "0.4.5",
             "min_lnbits_version": "0.11.2",
             "short_description": "Create static payment links",
-            "icon": "https://github.com/lnbits/lnurlp/raw/main/static/image/lnurl-pay.png",
-            "archive": "https://github.com/lnbits/lnurlp/archive/refs/tags/v0.4.4.zip",
-            "hash": "a2f5fdf748d87f23baa872910e56e83f12d55a33bb9c0064c6755e051f3d7ce8"
+            "icon": "https://github.com/oren-z0/lnurlp/raw/main/static/image/lnurl-pay.png",
+            "archive": "https://github.com/oren-z0/lnurlp/archive/refs/tags/v0.4.5.zip",
+            "hash": "5c6e6d3dfa8ae0df0fe4171cfd91bf49ba7cd276a88ad8d37f8e31b4bfad98e3"
         },
         {
             "id": "lnurlp",
